@@ -1,0 +1,5 @@
+train: /path/to/dataset/images/train
+val: /path/to/dataset/images/val
+
+nc: 1
+names: ['text_block']
